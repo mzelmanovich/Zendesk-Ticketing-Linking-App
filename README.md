@@ -22,6 +22,8 @@ Id number of custom field to be used to create the list.
 
 ## Screenshots
 #### Settings:
-![Settings field](/mzelmanovich/Zendesk-Ticketing-Linking-App/blob/master/screenshots/settings.JPG?raw=true)
+![Settings field](/mzelmanovich/Zendesk-Ticketing-Linking-App/blob/master/screenshots/app.JPG?raw=true)
+
+
 #### Ticket View:
 ![App Screen Shot](/mzelmanovich/Zendesk-Ticketing-Linking-App/blob/master/screenshots/app.JPG?raw=true)
