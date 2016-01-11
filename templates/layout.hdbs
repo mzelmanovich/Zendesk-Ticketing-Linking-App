@@ -1,0 +1,12 @@
+<header>
+  <span class="logo"></span>
+  <h3>{{setting "appName"}}</h3>
+</header>
+<section data-main></section>
+<footer>
+<div id="bug_link">
+  <a href="mailto:{{author.email}}">
+    Report Bugs
+  </a>
+</div>
+</footer>

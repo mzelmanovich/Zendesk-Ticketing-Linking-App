@@ -1,0 +1,17 @@
+{{#if ticketList}}
+<div>
+    <h5>Ticket that have {{linkedValue}}:</h5>
+  <table class="table table-condensed">
+    <tbody>
+      {{#each ticketList}}
+      <tr class="_tooltip">
+        <td><a href="#/tickets/{{this.id}}"><b>#{{this.id}}</b> {{this.subject}}</a></td>
+        <td class="ticket_status"><span class="ticket_status_label toolbar {{this.status}}">{{this.status}}</span></td>
+      </tr>
+      {{/each}}
+    </tbody>
+  </table>
+</div>
+{{else}}
+<P> Currently this ticket is not linked</p>
+{{/if}}
