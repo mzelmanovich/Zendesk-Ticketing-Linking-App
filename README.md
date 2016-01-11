@@ -4,7 +4,6 @@ Zendesk App To Link Tickets based on value of custom ticket field. Will show lis
 ## Table of Contents
 - [Install](https://github.com/mzelmanovich/Zendesk-Ticketing-Linking-App#install)
 - [Settings](https://github.com/mzelmanovich/Zendesk-Ticketing-Linking-App#settings)
-
 - [Screenshots](https://github.com/mzelmanovich/Zendesk-Ticketing-Linking-App#screenshots)
 
 ## Install
