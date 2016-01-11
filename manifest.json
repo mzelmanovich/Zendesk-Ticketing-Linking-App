@@ -1,9 +1,9 @@
 {
-  "name": "Linking App",
+  "name": "Ticket Linking App",
   "author": {
     "name": "Mitchell Zelmanovich",
-    "email": "mzelmanovich@catchpoint.com",
-    "url": "http://catchpoint.com"
+    "email": "mzelmanovich@gmail.com",
+    "url": "https://github.com/mzelmanovich"
   },
   "defaultLocale": "en",
   "private": true,
