@@ -10,7 +10,7 @@
     // use zendesk api to search for the same feild value on tickets.
       searchForRelatedTickets: function(feildValue) {
         return {
-          url: '/api/v2/search.json?query=fieldvalue:'+ feildValue +' type:ticket',
+          url: '/api/v2/search.json?query=fieldvalue:'+ feildValue +' type:ticket status<closed',
           type:'GET',
           dataType: 'json'
         };
